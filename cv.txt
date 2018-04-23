@@ -1,4 +1,4 @@
-PETER PAN
+﻿PETER PAN
 Adresse: No 31 Kensington Hill Park, Londres, Angleterre
 Téléphone: 000-111-2222
 -------------------
@@ -10,6 +10,7 @@ Fonctions :
 - Gérer les enfants perdus
 - Consulter les êtres ailés
 - Engager des combats d'épée avec les pirates professionnels avec Monsieur Mouche
+-combattre le capitaine crochet 
 -------------------
 
 EXPÉRIENCES DE BÉNÉVOLAT
